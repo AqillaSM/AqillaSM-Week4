@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AqillaSM-Week4", "AqillaSM-Week4\AqillaSM-Week4.csproj", "{072FC559-C9E3-4BD8-AC4F-42F78CCEDF37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{072FC559-C9E3-4BD8-AC4F-42F78CCEDF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072FC559-C9E3-4BD8-AC4F-42F78CCEDF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072FC559-C9E3-4BD8-AC4F-42F78CCEDF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072FC559-C9E3-4BD8-AC4F-42F78CCEDF37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {596A7CB4-BEED-477D-B59E-E380D5F8FB7C}
+	EndGlobalSection
+EndGlobal
